@@ -6,20 +6,21 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is **Luyao Liu (Alina, [刘璐瑶](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
-I am a senior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my CV](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I am a third-year student in **Physical Chemistry** at East China Normal University. I am extremely fortunate to be advised by [Jianping Ge](https://dqxy.fzu.edu.cn/info/1102/3547.htm). Here is [my CV](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+- **Sep. 2021-Present:** MA in Physical Chemistry
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc! [Online talk with me](https://calendly.com/lancecai/meet-with-lance)
+   East China Normal University, Shanghai, China
+- **Sep. 2017 -June 2021:** BA in Chemistry
+
+   East China Normal University, Shanghai, China
+
 
 <br>
 
