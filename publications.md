@@ -10,7 +10,11 @@ Lastest Update: 30th Sep 2023
 
 ## Conference Paper
 
-- [Nitrogen and sulfur-enriched porous bithiophene-melamine covalent organic polymers for effective capture of CO2 and iodine](https://Alina-LuyaoLiu.github.io/mypaper/2020ML.pdf)<br>**Luyao Liu**, Chunmei Song and Aiguo Kong<br>Material Letters<br>Oct 15 2020. [Graph](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
+- [Nitrogen and sulfur-enriched porous bithiophene-melamine covalent organic polymers for effective capture of CO2 and iodine](https://Alina-LuyaoLiu.github.io/mypaper/2020ML.pdf)<br>**Luyao Liu**, Chunmei Song and Aiguo Kong<br>Material Letters<br>Oct 15 2020.
+<div>
+<img src="/images/ML.JPG">
+</div>
+<br>
 
 - [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
 
