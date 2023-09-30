@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /projects/index.html
-title: Projects
+permalink: /extra activities/index.html
+title: Extra Activities
 ---
 
-# Research Projects
+# Extra Activities
 
-P.S., click the hyperlink title to access the source.<br>
+
 
 #### [OpenIoT: Industrial Inspection System](https://fzuiot.site/)
 
