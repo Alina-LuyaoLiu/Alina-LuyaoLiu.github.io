@@ -6,49 +6,32 @@ title: Hobbies
 
 # Hobbies
 
-## Teaching & Workshops
+## F1
 
 <div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
+<img src="/images/F1.jpg">
+<img src="/images/F12.jpg">
+<img src="/images/prz.jpg">
 </div>
-<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].
+<br>The F1 race is not just about the driver’s efforts, but the team’s efforts are more important. This is a cooperation and game between drivers and decision-making groups, and a game between teams. The performance of the car can determine the ranking in the qualifying race, but it cannot represent the position on the podium. It is almost impossible to complete every race smoothly even with the extreme development of driving skills and car performance. In difficult weather or track conditions, drivers do not know what kind of situation they will face. Some choose to go forward bravely, like James Hunt finishing Japanese Grand Prix in 1976 ，while others choose to be cautious. Racing is very similar to personal development. Some people can drive the car of Red Bull or Ferrari as soon as they enter the track, but Red Bull drivers cannot win every podium, just as Perez won his first podium in 2020 while driving for Racing Point.This is the most interesting part of this competition. Personal efforts, team decisions, car performance, track conditions, and other factors will affect the results of the race. No one can tell who will be the winner of this race. Everyone will do their best to enjoy every race and every moment of speed and passion.
 
-[a fantastic speech]:https://youtu.be/Dzx84KpGNoE
-[best universities in my hometown]:https://www.fzu.edu.cn/
+## Other Hobbies
 
-
-
-## Swimming & Surfing
+I previously enjoyed jogging,painting，baking， [vlog making](https://space.bilibili.com/66708724), and watching documentaries. However, I have no time to do these things recently.
+I also love hanging out with my friends. Sometimes we go to restaurants to enjoy delicious food, or we just take a short trip. I think this is a great way to relax by spending time with my good friends and enjoying a pleasant dinner or vacation together.
+<div class="third">
+<img src="/images/p.jpg">
+<img src="/images/b.jpg">
+<img src="/images/DOC.jpg">
+</div>
 
 <div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+<img src="/images/food.jpg">
+<img src="/images/t.jpg">
+<img src="/images/t2.jpg">
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my swimming career. Recently, I am also keen on surfing.
 
-## Past Hobbies
 
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
-
-## My Cat
-
-This is my love. Her name is Qbo (Q宝).
-
-<div>
-<img src="/images/cat.JPG">
-</div>
 <br>
 
-## Chat with me
-
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
-
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
 
