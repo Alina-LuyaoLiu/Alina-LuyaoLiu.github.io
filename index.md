@@ -6,9 +6,9 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Luyao Liu (Alina, [刘璐瑶](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is **Luyao Liu (Alina, [刘璐瑶](https://Alina-LuyaoLiu.github.io/file/CV_LuyaoLiu.pdf))**.
 
-I am a third-year student in **Physical Chemistry** at East China Normal University. I am extremely fortunate to be advised by [Jianping Ge](https://dqxy.fzu.edu.cn/info/1102/3547.htm). Here is [my CV](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I am a third-year student in **Physical Chemistry** at East China Normal University. I am extremely fortunate to be advised by [Jianping Ge](http://jpge.ecnu.edu.cn/). Here is [my CV](https://Alina-LuyaoLiu.github.io/file/CV_LuyaoLiu.pdf).
 
 <br>
 
@@ -28,23 +28,12 @@ I am a third-year student in **Physical Chemistry** at East China Normal Univers
 
 ## Research Interests
 
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
+- Prepare structural color fabrics by assembling photonic crystals on the surface of polyester fabrics 
+- Synthesize COFs and explore its ORR electrocatalytic properties in proton exchange membrane fuel cells
+- Synthesize COFs and explore its ion and I2 adsorption
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
-
-<br>
-
----
-
-## News and Updates
-
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Happy to win the Finalist Award in MCM 2023.
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Sep 2022：**Happy to be nominated for the China National Scholarship.
-- **Jun 2022：**Summer Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
+My current research focuses on preparing structural color fabrics with colloidal crystals. Photonic crystal coatings can be quickly prepared by spraying method. By coordinating colloidal solutions' the viscosity and fabric surfaces' microstructures and properties, we are committed to using low doses of colloidal particles to manufacture structural color fabrics with high saturation, high crystallinity and high reflection strength, and retain the wearing properties such as breathability and flexibility of the fabric. By constructing structural color fabrics, we will get rid of the environmental pollution caused by chemical dyes, expand green chemical technology, and realize more environmentally friendly fabric dyeing technology.
 
 <br>
+
+
