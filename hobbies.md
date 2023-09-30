@@ -17,8 +17,8 @@ title: Hobbies
 
 ## Other Hobbies
 
-I previously enjoyed jogging,painting，baking， [vlog making](https://space.bilibili.com/66708724), and watching documentaries. However, I have no time to do these things recently.
-I also love hanging out with my friends. Sometimes we go to restaurants to enjoy delicious food, or we just take a short trip. I think this is a great way to relax by spending time with my good friends and enjoying a pleasant dinner or vacation together.
+I previously enjoyed jogging,painting，baking， [video making](https://space.bilibili.com/66708724), and watching documentaries. However, I have no time to do these things recently.
+<br>I also love hanging out with my friends. Sometimes we go to restaurants to enjoy delicious food, or we just take a short trip. I think this is a great way to relax by spending time with my good friends and enjoying a pleasant dinner or vacation together.
 <div class="third">
 <img src="/images/p.jpg">
 <img src="/images/b.jpg">
