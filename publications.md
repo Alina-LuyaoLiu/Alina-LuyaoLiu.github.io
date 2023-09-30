@@ -6,28 +6,45 @@ title: Publications
 
 # Publications
 
-Lastest Update: 7th Aug 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+Lastest Update: 30th Sep 2023 
 
 ## Conference Paper
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
+- [Use PU to decorate fabrics for construct structural color fabrics with high crystallization]<br>**Luyao Liu**, Yongxue Chen and Jiangping Ge<br>Advanced Functioonal Materials<br>(Under Review)Sep 2023.
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
+- [Green synthesis of structural colored fabrics by spraying aqueous colloidal solutionse](https://Alina-LuyaoLiu.github.io/mypaper/H2O.pdf)<br>**Luyao Liu**, He Yuying, Fu Qianqian, Ge Jianping<br>Journal of East China Normal University (Natural Science)<br>Jan 2023.
+<div>
+<img src="/images/ECNU.png">
+</div>
+<br>
 
-## Working Manuscript
+- [Nitrogen and sulfur-enriched porous bithiophene-melamine covalent organic polymers for effective capture of CO2 and iodine](https://Alina-LuyaoLiu.github.io/mypaper/2020ML.pdf)<br>**Luyao Liu**, Chunmei Song and Aiguo Kong<br>Material Letters<br>Oct 2020.
+<div>
+<img src="/images/ML.png">
+</div>
+<br>
 
-- BLEguard: Deep Learning Based Framework for Spoofing Attacks Detection in BLE IoT Networks<br>**Hanlin Cai**, Zhezhuang Xu<br>**Working hard for the upcoming AAAI 2024!**
+- [Green synthesis of structural colored fabrics by spraying aqueous colloidal solutionse](https://Alina-LuyaoLiu.github.io/mypaper/H2O.pdf)<br>**Luyao Liu**, He Yuying, Fu Qianqian, Ge Jianping<br>Journal of East China Normal University (Natural Science)<br>Jan 2023.
+<div class="third">
+<img src="/images/AFM1.png">
+<img src="/images/AFM2.png">
+<img src="/images/AFM3.png">
+</div>
+
+
+- [Ultrafine Cu6Sn5 nanoalloys supported on nitrogen and sulfur-doped carbons as robust electrode materials for oxygen reduction and Li-ion battery](https://Alina-LuyaoLiu.github.io/mypaper/Cu6Sn5.pdf)<br>Xiaoying Zhang,**Luyao Liu**,  Jiaxin Liu, Tingting Cheng, Aiguo Kong, Yu Qiao, Yongkui Shan<br>Journal of Alloys and Compounds<br>May, 2020.<br>
+<div>
+<img src="/images/CU.png">
+</div>
+<br>
+
+- [Sn(OH)x-assisted synthesis of mesoporous Mn-porphyrinic frameworks and their carbon derivatives for electrocatalysis](https://Alina-LuyaoLiu.github.io/mypaper/SnOHx.pdf)<br>Xiaoying Zhang,**Luyao Liu**,  Yu Qiao, Jiaxin Liu, Aiguo Kong and Yongkui Shan<br>Dalton Transactions<br>Oct, 2019.<br>
+<div>
+<img src="/images/SN.png">
+</div>
+<br>
 
 
 
----
-
-## Competition Paper
-
-- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo (Advisor: Zhezhuang Xu)<br>Mathematical Contest In Modeling (COMAP 2023)<br>**Finalist Award** (Top 1% of all 20858 paper).<br>
-
-## Undergrad Thesis
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu)<br>Industrial Placement Thesis in Huading Tech and IACTIP Lab<br>
 
 <br>

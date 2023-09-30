@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://Alina-LuyaoLiu.github.io/images/luyaoliu.jpg" class="floatpic" width="360" height="480">
+<img src="https://Alina-LuyaoLiu.github.io/images/luyaoliu.JPG" class="floatpic" width="400" height="480">
 
 Here is **Luyao Liu (Alina, [刘璐瑶](https://Alina-LuyaoLiu.github.io/file/CV_LuyaoLiu.pdf))**.
 
