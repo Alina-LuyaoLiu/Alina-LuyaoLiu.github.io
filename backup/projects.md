@@ -1,59 +1,36 @@
 ---
 layout: page
-permalink: /extra activities/index.html
+permalink: /extra_activities/index.html
 title: Extra Activities
 ---
 
 # Extra Activities
 
+## Competition
+- Asian Universities Student Entrepreneurship Ideation Challenge (AUSEIC) Competition
+We focus on education backward areas, provide a combination of online and offline education resource assistance model, and are committed to breaking the problem of educational information barriers in poor areas.
 
 
-#### [OpenIoT: Industrial Inspection System](https://fzuiot.site/)
+## Volunteer Works
 
-<center>
-<img src="/images/openiot-system.png">
-</center>
-
+- Miaomiao Reading Instruction Activities in Maqiao Experimental School
+Guide students to read children's picture books and talk about some extra knowledge about stories to broaden their perspectives and to inspire their interests
+<div>
+<img src="/images/reading.jpg">
+</div>
 <br>
 
-#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)
+- Tianjie Community Volunteer
+Accompany primary school students to solve learning problems, whose parents have low educational backgrounds and are migrant workers, and these parents do not have time to accompany their children to solve educational problems
 
-<center>
-<img src="/images/MCM-figure3.jpg">
-</center>
+
+- Education Helps Social Practice Activities
+Accompany middle school students in areas with backward science and technology and backward educational resources, and carry out extracurricular interest activity groups for them, and provide interest activity groups such as aerobics, modular programming, board games, and stage plays
+<div>
+<img src="/images/zhijiao2.jpg">
+</div>
 <br>
 
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
 
-<center>
-<img src="/images/resnet-ahp.png">
-</center>
 
 <br>
-
-#### [CityManager: Community Monitoring System](https://caihanlin.com/mypaper/202208cenim.pdf )
-
-<center>
-<img src="/images/iot-manager.png">
-</center>
-<br>
-
-<br>
-
----
-
-# Open-source Projects
-
-<br>
-
-#### [FZU-Flying-Book 福州大学飞跃手册](https://fzu-fly.online/)
-
-This is the flying handbook for FZU students. Many outstanding graduates of Fuzhou University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
-
-#### [FZU-LaTeX-template 精美学术模版](https://github.com/GuangLun2000/FZU-latex-template)
-
-Many elegant LaTeX templates designed for FZU students, including Beamer Theme Slides, Recommendation Letters and Undergraduate Thesis Template.
-
-#### [miec-lance 自动化系修读材料](https://github.com/GuangLun2000/miec-lance )
-
-This repo is where I keep track of my incredible journey at FZU-MIEC. You can learn RIDS & CSEE better by refering to this repo, but **please do not directly copy my assignments, codes and any reports!**
