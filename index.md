@@ -35,5 +35,7 @@ I am a third-year student in **Physical Chemistry** at East China Normal Univers
 My current research focuses on preparing structural color fabrics with colloidal crystals. Photonic crystal coatings can be quickly prepared by spraying method. By coordinating colloidal solutions' the viscosity and fabric surfaces' microstructures and properties, we are committed to using low doses of colloidal particles to manufacture structural color fabrics with high saturation, high crystallinity and high reflection strength, and retain the wearing properties such as breathability and flexibility of the fabric. By constructing structural color fabrics, we will get rid of the environmental pollution caused by chemical dyes, expand green chemical technology, and realize more environmentally friendly fabric dyeing technology.
 
 <br>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=rz7hygp-X8URQfqRz8gER11O2ufI4x6ot0YWxBMcgtk&cl=ffffff&w=a"></script>
 
+<br>
 
