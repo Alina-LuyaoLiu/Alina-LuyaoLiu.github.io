@@ -9,7 +9,7 @@ title: Hobbies
 ## F1
 
 <div class="third">
-<img src="/images/F14.jpg">
+<img src="/images/f14.jpg">
 <img src="/images/F12.jpg">
 <img src="/images/prz.jpg">
 </div>
