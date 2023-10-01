@@ -9,7 +9,7 @@ title: Hobbies
 ## F1
 
 <div class="third">
-<img src="/images/F1.jpg">
+<img src="/images/F14.jpg">
 <img src="/images/F12.jpg">
 <img src="/images/prz.jpg">
 </div>
@@ -22,11 +22,11 @@ I previously enjoyed jogging,painting，baking， [video making](https://space.b
 <div class="third">
 <img src="/images/p.jpg">
 <img src="/images/b.jpg">
-<img src="/images/DOC.jpg">
+<img src="/images/food.jpg">
 </div>
 
 <div class="third">
-<img src="/images/food.jpg">
+<img src="/images/doc1.jpg">
 <img src="/images/t.jpg">
 <img src="/images/t2.jpg">
 </div>
