@@ -14,10 +14,10 @@ I am a third-year student in **Physical Chemistry** at East China Normal Univers
 
 ## Academic Background
 
-- **Sep. 2021-Present:** MA in Physical Chemistry
+- **Sep. 2021-Present:** MS in Physical Chemistry
 
    East China Normal University, Shanghai, China
-- **Sep. 2017 -June 2021:** BA in Chemistry
+- **Sep. 2017 -June 2021:** BS in Chemistry
 
    East China Normal University, Shanghai, China
 
