@@ -6,9 +6,9 @@ layout: page
 
 <img src="https://Alina-LuyaoLiu.github.io/images/2.jpg" class="floatpic" width="370" height="493">
 
-Here is **Luyao Liu (Alina, [刘璐瑶](https://Alina-LuyaoLiu.github.io/file/CV_LuyaoLiu.pdf))**.
+Here is **Luyao Liu (Alina, [刘璐瑶](https://Alina-LuyaoLiu.github.io/file/CV_final.pdf))**.
 
-I am a third-year student in **Physical Chemistry** at East China Normal University. I am extremely fortunate to be advised by [Jianping Ge](https://faculty.ecnu.edu.cn/_s34/gjp2/main.psp). Here is [my CV](https://Alina-LuyaoLiu.github.io/file/CV_LuyaoLiu.pdf).
+I am a third-year student in **Physical Chemistry** at East China Normal University. I am extremely fortunate to be advised by Jianping Ge ( [Falcuty Page](https://faculty.ecnu.edu.cn/_s34/gjp2/main.psp) , [ResearchGate](https://www.researchgate.net/lab/Jianping-Ge-Lab-2) ). Here is [my CV](https://Alina-LuyaoLiu.github.io/file/CV_final.pdf).
 
 <br>
 
