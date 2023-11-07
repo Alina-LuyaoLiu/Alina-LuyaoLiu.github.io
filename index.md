@@ -8,7 +8,7 @@ layout: page
 
 Here is **Luyao Liu (Alina, [刘璐瑶](https://Alina-LuyaoLiu.github.io/file/CV_final.pdf))**.
 
-I am a third-year student in **Physical Chemistry** at East China Normal University. I am extremely fortunate to be advised by Jianping Ge [Falcuty Page](https://faculty.ecnu.edu.cn/_s34/gjp2/main.psp) [ResearchGate](https://www.researchgate.net/lab/Jianping-Ge-Lab-2). Here is [my CV](https://Alina-LuyaoLiu.github.io/file/CV_final.pdf).
+I am a third-year student in **Physical Chemistry** at East China Normal University. I am extremely fortunate to be advised by Jianping Ge ( [Falcuty Page](https://faculty.ecnu.edu.cn/_s34/gjp2/main.psp) , [ResearchGate](https://www.researchgate.net/lab/Jianping-Ge-Lab-2) ). Here is [my CV](https://Alina-LuyaoLiu.github.io/file/CV_final.pdf).
 
 <br>
 
