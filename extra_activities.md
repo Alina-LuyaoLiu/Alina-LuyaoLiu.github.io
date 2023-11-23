@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /extra_activities/index.html
-title: Extra Activities
+title: Extracurricular Activities 
 ---
 
-# Extra Activities
+# Extracurricular Activities
 
 ## Competition
 - Asian Universities Student Entrepreneurship Ideation Challenge (AUSEIC) Competition
