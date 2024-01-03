@@ -6,10 +6,10 @@ title: Publications
 
 # Publications
 
-Lastest Update: 30th Sep 2023 
+Lastest Update: 30th Dec 2023 
 
 
-- [Use PU to decorate fabrics for construct structural color fabrics with high crystallization]<br>**Luyao Liu**, Yongxue Chen and Jiangping Ge<br>Advanced Functioonal Materials<br>(Under Review)Sep 2023.
+- [Bright, Breathable and Soft Structural Color Fabric from PU Pre-Modified Twisted Polyester]<br>**Luyao Liu**, Yongxue Chen and Jiangping Ge<br>Advanced Functioonal Materials<br>(Under Review)Dec 2023.
 
 - [Green synthesis of structural colored fabrics by spraying aqueous colloidal solutionse](https://Alina-LuyaoLiu.github.io/mypaper/H2O.pdf)<br>**Luyao Liu**, He Yuying, Fu Qianqian, Ge Jianping<br>Journal of East China Normal University (Natural Science)<br>Jan 2023.
 <div>
