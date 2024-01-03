@@ -29,7 +29,7 @@ I am a third-year student in **Physical Chemistry** at East China Normal Univers
 ## Research Interests
 
 - Synthesize COFs and explore its ORR electrocatalytic properties in proton exchange membrane fuel cells
-- Synthesize COFs and explore its CO~2~ adsorption
+- Synthesize COFs and explore its $CO_2$ adsorption
 - Prepare structural color fabrics by assembling photonic crystals on the surface of polyester fabrics 
 
 My current research focuses on preparing structural color fabrics with colloidal crystals. Photonic crystal coatings can be quickly prepared by spraying method. By coordinating colloidal solutions' the viscosity and fabric surfaces' microstructures and properties, we are committed to using low doses of colloidal particles to manufacture structural color fabrics with high saturation, high crystallinity and high reflection strength, and retain the wearing properties such as breathability and flexibility of the fabric. By constructing structural color fabrics, we will get rid of the environmental pollution caused by chemical dyes, expand green chemical technology, and realize more environmentally friendly fabric dyeing technology.
